@@ -1,5 +1,5 @@
 # Calculator IMC 
-Calculator BMI - JS, HTML e CSS - MV
+Calculator BMI - JS, HTML e CSS - MVC
 
 # Project Aim
 Body Mass Index (BMI) calculator to assist in assessing a person's nutritional status. BMI is a measurement that relates weight and height, providing a general indication of body composition.
